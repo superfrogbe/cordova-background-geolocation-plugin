@@ -8,6 +8,20 @@ on:
     types: [created]
 
 jobs:
+  merge-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          ref: 'develop'
+
+      - name: Merge develop -> stable
+        uses: devmasx/merge-branch@v1.3.1
+        with:
+          type: now
+          from_branch: develop
+          target_branch: stable
+          github_token: ${{ github.token }}
 
   publish-npm:
   needs: merge-branch
@@ -25,17 +39,4 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
-  merge-branch:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-        with:
-          ref: 'develop'
-
-      - name: Merge develop -> stable
-        uses: devmasx/merge-branch@v1.3.1
-        with:
-          type: now
-          from_branch: develop
-          target_branch: stable
-          github_token: ${{ github.token }}
+  
