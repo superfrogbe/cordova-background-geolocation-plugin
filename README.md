@@ -26,6 +26,8 @@ The NPM package can be found at [cordova-background-geolocation-plugin](https://
 
 ### Installing the plugin
 
+**Note:** for non AndroidX project please use version 1.x of this plugin. Version 2.x and on will support AndroidX.
+
 ```bash
 cordova plugin add cordova-background-geolocation-plugin
 ```
@@ -37,7 +39,6 @@ You may also want to change default iOS permission prompts and set specific goog
 ```bash
 cordova plugin add cordova-background-geolocation-plugin \
   --variable GOOGLE_PLAY_SERVICES_VERSION=11+ \
-  --variable ANDROID_SUPPORT_LIBRARY_VERSION=26+ \
   --variable ALWAYS_USAGE_DESCRIPTION="App requires ..." \
   --variable MOTION_USAGE_DESCRIPTION="App requires motion detection"
 ```
