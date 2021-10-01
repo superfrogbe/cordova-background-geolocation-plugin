@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
+
+**Merged pull requests:**
+
+- Add support for AndroidX [\#49](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/49) ([HarelM](https://github.com/HarelM))
+
 ## [v1.1.0](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v1.1.0) (2021-06-27)
 
 **Implemented enhancements:**
