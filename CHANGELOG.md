@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
+## [v2.0.2](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.2) (2022-01-20)
 
 **Fixed bugs:**
 
