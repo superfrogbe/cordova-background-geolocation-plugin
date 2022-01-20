@@ -2,9 +2,27 @@
 
 ## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
 
+**Implemented enhancements:**
+
+- Support AndroidX [\#15](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/15)
+
 **Fixed bugs:**
 
 - Android 12 issues [\#59](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/59)
+
+**Documentation:**
+
+- Add guide on contributing [\#44](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/44)
+- Allow users to view documentation for specific versions [\#37](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/37)
+- Improve documentation around android background location posting [\#29](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/29)
+
+**Closed issues:**
+
+- New Google Play Guidelines  [\#57](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/57)
+- Capture in a regular basis [\#45](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/45)
+- Make the tests run on every commit [\#30](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/30)
+- Clean up a bit [\#28](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/28)
+- Example repository [\#27](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/27)
 
 **Merged pull requests:**
 
