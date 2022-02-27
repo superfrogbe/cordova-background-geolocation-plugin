@@ -2,6 +2,16 @@
 
 ## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
 
+**Closed issues:**
+
+- please apply this fix to IOS file /ios/common/BackgroundGeolocation/MAURConfig.m [\#65](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/65)
+
+**Merged pull requests:**
+
+- Update MAURConfig.m [\#68](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/68) ([tfelici](https://github.com/tfelici))
+
+## [v2.0.2](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.2) (2022-01-20)
+
 **Implemented enhancements:**
 
 - Support AndroidX [\#15](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/15)
