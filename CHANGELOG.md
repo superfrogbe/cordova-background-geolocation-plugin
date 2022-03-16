@@ -4,6 +4,16 @@
 
 **Closed issues:**
 
+- plugin.xml version does not match package.json version [\#69](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/69)
+
+**Merged pull requests:**
+
+- Align name and version labels between plugin.xml and package.json [\#70](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/70) ([rtholmes](https://github.com/rtholmes))
+
+## [v2.0.3](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.3) (2022-02-27)
+
+**Closed issues:**
+
 - please apply this fix to IOS file /ios/common/BackgroundGeolocation/MAURConfig.m [\#65](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/65)
 
 **Merged pull requests:**
