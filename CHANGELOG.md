@@ -38,6 +38,10 @@
 
 - plugin.xml version does not match package.json version [\#69](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/69)
 
+**Merged pull requests:**
+
+- Align name and version labels between plugin.xml and package.json [\#70](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/70) ([rtholmes](https://github.com/rtholmes))
+
 ## [v2.0.3](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.3) (2022-02-27)
 
 **Closed issues:**
@@ -46,7 +50,6 @@
 
 **Merged pull requests:**
 
-- Align name and version labels between plugin.xml and package.json [\#70](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/70) ([rtholmes](https://github.com/rtholmes))
 - Update MAURConfig.m [\#68](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/68) ([tfelici](https://github.com/tfelici))
 
 ## [v2.0.2](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.2) (2022-01-20)
@@ -121,6 +124,7 @@
 **Merged pull requests:**
 
 - Fix for missing Android icons [\#26](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/26) ([RaddishIoW](https://github.com/RaddishIoW))
+- Fix for missing org.apache.http.legacy library dependency [\#25](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/25) ([RaddishIoW](https://github.com/RaddishIoW))
 
 ## [1.0.0-rc.4](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/1.0.0-rc.4) (2021-05-02)
 
