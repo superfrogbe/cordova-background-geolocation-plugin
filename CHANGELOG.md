@@ -2,6 +2,12 @@
 
 ## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
 
+**Merged pull requests:**
+
+- Fixes Android 12 missing FLAG\_IMMUTABLE [\#98](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/98) ([HarelM](https://github.com/HarelM))
+
+## [v2.0.5](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.5) (2022-08-01)
+
 **Implemented enhancements:**
 
 - Remove legacy org.apache.http library references [\#56](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/56)
