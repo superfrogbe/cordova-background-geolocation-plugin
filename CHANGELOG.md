@@ -98,7 +98,6 @@
 
 **Implemented enhancements:**
 
-- \[Feature\] Transaction-based access to the GPS positions buffer [\#18](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/18)
 - Add promises and subscription to js interface [\#16](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/16)
 
 **Documentation:**
