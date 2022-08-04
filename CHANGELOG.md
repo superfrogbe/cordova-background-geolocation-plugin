@@ -2,6 +2,16 @@
 
 ## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
 
+**Closed issues:**
+
+- Can't create APK for Android API 32 [\#92](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/92)
+
+**Merged pull requests:**
+
+- Fixed onCreate issue Android 12 [\#99](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/99) ([lucamazz1](https://github.com/lucamazz1))
+
+## [v2.0.6](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.6) (2022-08-02)
+
 **Merged pull requests:**
 
 - Fixes Android 12 missing FLAG\_IMMUTABLE [\#98](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/98) ([HarelM](https://github.com/HarelM))
@@ -98,6 +108,7 @@
 
 **Implemented enhancements:**
 
+- \[Feature\] Transaction-based access to the GPS positions buffer [\#18](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/18)
 - Add promises and subscription to js interface [\#16](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/16)
 
 **Documentation:**
