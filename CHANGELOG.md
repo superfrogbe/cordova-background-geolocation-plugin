@@ -4,6 +4,16 @@
 
 **Closed issues:**
 
+- rename package so that it doenst mix with parent repo [\#106](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/106)
+
+**Merged pull requests:**
+
+- Updated README.md [\#107](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/107) ([acognigni-evotecnia](https://github.com/acognigni-evotecnia))
+
+## [v2.0.7](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.7) (2022-08-04)
+
+**Closed issues:**
+
 - Can't create APK for Android API 32 [\#92](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/92)
 
 **Merged pull requests:**
