@@ -1,0 +1,5 @@
+android {
+    defaultConfig {
+        resValue "string", "mauron85_bgloc_account_type", "app.safesky.fis.safesky.mauron85.bgloc.account"
+    }
+}
