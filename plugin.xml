@@ -32,7 +32,9 @@
         <preference name="ACCOUNT_TYPE" default="$PACKAGE_NAME.account" />
         <preference name="CONTENT_AUTHORITY" default="$PACKAGE_NAME" />
 
+        // https://githubmemory.com/repo/mauron85/react-native-background-geolocation/issues/529
         <framework src="android/build_extras.gradle" custom="true" type="gradleReference"/>
+            
         <framework src="com.google.android.gms:play-services-location:$GOOGLE_PLAY_SERVICES_VERSION" />
         <framework src="androidx.core:core:1.1.0" />
         <framework src="androidx.appcompat:appcompat:1.1.0" />
