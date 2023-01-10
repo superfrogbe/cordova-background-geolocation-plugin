@@ -4,11 +4,24 @@
 
 **Closed issues:**
 
+- FLAG\_MUTABLE with latest version [\#131](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/131)
+- cannot access zzbfm / class file for com.google.android.gms.internal.zzbfm not found - Ionic 6 [\#128](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/128)
+- Provide option for manual distanceFilter calcaultion [\#123](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/123)
+- App Crash FLAG MUTABLE OR IMUTABLE [\#121](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/121)
+- Can't create android build [\#120](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/120)
+- Build Failed in iOS using OutSystems  [\#117](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/117)
 - \[Android\] Crash on reboot / Does not start on reboot [\#111](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/111)
 - rename package so that it doenst mix with parent repo [\#106](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/106)
+- Failure Build with AAPT: error: attribute android:foregroundServiceType not found [\#82](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/82)
+- Send data every 30 Seconds\(or X seconds\) [\#81](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/81)
+- Location posting stops randomly and resumes only after switching the aeroplane mode on/off [\#79](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/79)
+- Background Geolocation Tracking joins immediately to Stationary mode [\#77](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/77)
+- Send data doesn't work  [\#74](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/74)
+- Update notification while service is running [\#72](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/72)
 
 **Merged pull requests:**
 
+- 2.0.8 [\#134](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/134) ([andreandersson](https://github.com/andreandersson))
 - fix: handle boot events in Android [\#112](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/112) ([andreandersson](https://github.com/andreandersson))
 - Updated README.md [\#107](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/107) ([acognigni-evotecnia](https://github.com/acognigni-evotecnia))
 
