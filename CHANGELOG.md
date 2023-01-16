@@ -2,6 +2,12 @@
 
 ## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
 
+**Merged pull requests:**
+
+- Add PendingIntent mutability flag for Android 12 [\#135](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/135) ([nathan-xiao1](https://github.com/nathan-xiao1))
+
+## [v2.0.8](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.8) (2023-01-10)
+
 **Closed issues:**
 
 - FLAG\_MUTABLE with latest version [\#131](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/131)
