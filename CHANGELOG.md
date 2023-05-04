@@ -23,6 +23,7 @@
 
 **Merged pull requests:**
 
+- 2.0.9 [\#149](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/149) ([HarelM](https://github.com/HarelM))
 - fix\(build\): Remove a blank line in plugin.xml [\#148](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/148) ([jdupuis](https://github.com/jdupuis))
 - Add PendingIntent mutability flag for Android 12 [\#135](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/135) ([nathan-xiao1](https://github.com/nathan-xiao1))
 
@@ -182,7 +183,6 @@
 **Fixed bugs:**
 
 - Missing org.apache.http.legacy library dependency [\#24](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/24)
-- \[Android\] Fresh install fails on resources \(icon\) not found [\#23](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/23)
 
 **Closed issues:**
 
