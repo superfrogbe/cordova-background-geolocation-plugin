@@ -4,6 +4,27 @@
 
 **Closed issues:**
 
+- Permission is reported as denied if it's set to Ask Every Time [\#169](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/169)
+- Can't start Foreground Services when the app is in Background on android 12+ [\#166](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/166)
+- How to send Cookies with HTTP Location Posting [\#165](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/165)
+- Android ask for ACCESS\_BACKGROUND\_LOCATION on API \> 30 [\#164](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/164)
+- Bug in configuration [\#163](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/163)
+- On Background and Stationary, the plugin ignores the interval and send data every millisecond. [\#162](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/162)
+- Not posting data \(postTemplate\) along with the URL on Cordova-android  [\#160](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/160)
+- Plugin not working in background on iOS [\#155](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/155)
+- Can't resolve 'cordova/exec' / Can't resolve 'cordova/channel' [\#150](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/150)
+- EXC\_BAD\_ACCESS on ios XCODE  [\#137](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/137)
+- This is how to run on Android 10. [\#127](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/127)
+- App Crashes immediately when the 'Access to Device's location' dialog pops up and is allowed [\#122](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/122)
+
+**Merged pull requests:**
+
+- Update android-permissions plugin [\#171](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/171) ([jwasnoggin](https://github.com/jwasnoggin))
+
+## [v2.0.9](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.9) (2023-05-04)
+
+**Closed issues:**
+
 - Always send location in the background and without notification [\#144](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/144)
 - Failed to install 'cordova-background-geolocation-plugin': TypeError: Cannot read properties of undefined \(reading 'id'\) [\#143](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/143)
 - How to actively track locations with raw provider? [\#141](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/141)
@@ -183,6 +204,7 @@
 **Fixed bugs:**
 
 - Missing org.apache.http.legacy library dependency [\#24](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/24)
+- \[Android\] Fresh install fails on resources \(icon\) not found [\#23](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/23)
 
 **Closed issues:**
 
