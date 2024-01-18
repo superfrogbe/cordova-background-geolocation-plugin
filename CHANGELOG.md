@@ -4,6 +4,16 @@
 
 **Closed issues:**
 
+- INSTALL\_FAILED\_MISSING\_SHARED\_LIBRARY [\#173](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/173)
+
+**Merged pull requests:**
+
+- feat: add support altitude precision on Android [\#176](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/176) ([Athorcis](https://github.com/Athorcis))
+
+## [v2.0.10](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.10) (2023-11-30)
+
+**Closed issues:**
+
 - Permission is reported as denied if it's set to Ask Every Time [\#169](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/169)
 - Can't start Foreground Services when the app is in Background on android 12+ [\#166](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/166)
 - How to send Cookies with HTTP Location Posting [\#165](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/165)
