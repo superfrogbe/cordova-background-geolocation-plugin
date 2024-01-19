@@ -8,6 +8,7 @@
 
 **Merged pull requests:**
 
+- doc: adding altitudeAccuracy parameter [\#177](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/177) ([Athorcis](https://github.com/Athorcis))
 - feat: add support altitude precision on Android [\#176](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/176) ([Athorcis](https://github.com/Athorcis))
 
 ## [v2.0.10](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.10) (2023-11-30)
