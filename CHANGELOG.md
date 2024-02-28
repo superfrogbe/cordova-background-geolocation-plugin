@@ -8,6 +8,7 @@
 
 **Merged pull requests:**
 
+- fix concatenate sentence [\#182](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/182) ([jhonimaike](https://github.com/jhonimaike))
 - doc: adding altitudeAccuracy parameter [\#177](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/177) ([Athorcis](https://github.com/Athorcis))
 - feat: add support altitude precision on Android [\#176](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/176) ([Athorcis](https://github.com/Athorcis))
 
