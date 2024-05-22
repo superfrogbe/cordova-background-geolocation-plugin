@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
+## [v2.1.0](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.1.0) (2024-05-22)
 
 **Closed issues:**
 
@@ -208,10 +208,6 @@
 
 - Remove old/stale branches [\#41](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/41)
 - Update project documentation to reflect new repository and package details [\#11](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/11)
-
-**Merged pull requests:**
-
-- Version 1.1 - Merge develop into stable [\#43](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/43) ([HarelM](https://github.com/HarelM))
 
 ## [v1.0.0](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v1.0.0) (2021-05-04)
 
