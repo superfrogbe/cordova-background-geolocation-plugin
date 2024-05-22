@@ -30,6 +30,11 @@ The NPM package can be found at [cordova-background-geolocation-plugin](https://
 **Note:** this plugin can be installed on a Capacitor project and it is tested to be working as expected, some configuration may need to be done differently than below according to how Capacitor configuration is implemented.
 
 ```bash
+npm install cordova-background-geolocation-plugin
+npx cap sync
+```
+
+```bash
 cordova plugin add cordova-background-geolocation-plugin
 ```
 
