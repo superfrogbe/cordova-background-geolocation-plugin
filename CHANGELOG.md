@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
+
+[Full Changelog](https://github.com/HaylLtd/cordova-background-geolocation-plugin/compare/v2.1.1...HEAD)
+
+**Merged pull requests:**
+
+- Fixed onCreate issue Android 14 [\#178](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/178) ([rrrasti](https://github.com/rrrasti))
+
 ## [v2.1.1](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.1.1) (2024-05-28)
 
 [Full Changelog](https://github.com/HaylLtd/cordova-background-geolocation-plugin/compare/v2.1.0...v2.1.1)
