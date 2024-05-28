@@ -1,5 +1,15 @@
 # Changelog
 
+## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
+
+**Closed issues:**
+
+- \[Android\] Plugin doesn't work if notification permission is not allowed [\#188](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/188)
+
+**Merged pull requests:**
+
+- Move the request for notification permissions to a different flow. [\#189](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/189) ([HarelM](https://github.com/HarelM))
+
 ## [v2.1.0](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.1.0) (2024-05-22)
 
 **Closed issues:**
@@ -189,10 +199,6 @@
 
 ## [v2.0.0](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.0.0) (2021-10-01)
 
-**Merged pull requests:**
-
-- Add support for AndroidX [\#49](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/49) ([HarelM](https://github.com/HarelM))
-
 ## [v1.1.0](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v1.1.0) (2021-06-27)
 
 **Implemented enhancements:**
@@ -208,6 +214,11 @@
 
 - Remove old/stale branches [\#41](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/41)
 - Update project documentation to reflect new repository and package details [\#11](https://github.com/HaylLtd/cordova-background-geolocation-plugin/issues/11)
+
+**Merged pull requests:**
+
+- Add support for AndroidX [\#49](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/49) ([HarelM](https://github.com/HarelM))
+- Version 1.1 - Merge develop into stable [\#43](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/43) ([HarelM](https://github.com/HarelM))
 
 ## [v1.0.0](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v1.0.0) (2021-05-04)
 
