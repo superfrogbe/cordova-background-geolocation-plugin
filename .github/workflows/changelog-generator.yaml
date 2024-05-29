@@ -3,7 +3,9 @@ name: changelog-generator
 on:
   push:
     branches: [stable]
-
+  workflow_run:
+    types: [completed]
+    workflows: [.github/workflows/publish-release.yml]
 jobs:
   generate_changelog:
 
