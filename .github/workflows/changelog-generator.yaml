@@ -4,8 +4,9 @@ on:
   push:
     branches: [stable]
   workflow_run:
-    types: [completed]
-    workflows: [.github/workflows/publish-release.yml]
+    workflows: ["Publish Release"]
+    types: 
+      - completed
   workflow_dispatch:
 jobs:
   generate_changelog:
