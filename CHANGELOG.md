@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
+
+[Full Changelog](https://github.com/HaylLtd/cordova-background-geolocation-plugin/compare/v2.2.1...HEAD)
+
+**Merged pull requests:**
+
+- Upgrade google play service version to 17+ [\#194](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/194) ([HarelM](https://github.com/HarelM))
+
 ## [v2.2.1](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.2.1) (2024-05-29)
 
 [Full Changelog](https://github.com/HaylLtd/cordova-background-geolocation-plugin/compare/v2.2.0...v2.2.1)
