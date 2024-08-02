@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Check for activityRecognitionPermitted in ActivityRecognitionLocationProvider [\#198](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/198) ([pmlodawski](https://github.com/pmlodawski))
 - Use newer ACTIVITY\_RECOGNITION permission [\#197](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/197) ([pmlodawski](https://github.com/pmlodawski))
 
 ## [v2.3.0](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.3.0) (2024-07-03)
