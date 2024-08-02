@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/HEAD)
+
+[Full Changelog](https://github.com/HaylLtd/cordova-background-geolocation-plugin/compare/v2.3.0...HEAD)
+
+**Merged pull requests:**
+
+- Use newer ACTIVITY\_RECOGNITION permission [\#197](https://github.com/HaylLtd/cordova-background-geolocation-plugin/pull/197) ([pmlodawski](https://github.com/pmlodawski))
+
 ## [v2.3.0](https://github.com/HaylLtd/cordova-background-geolocation-plugin/tree/v2.3.0) (2024-07-03)
 
 [Full Changelog](https://github.com/HaylLtd/cordova-background-geolocation-plugin/compare/v2.2.1...v2.3.0)
